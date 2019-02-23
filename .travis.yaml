@@ -4,4 +4,4 @@ compiler:
  - gcc
  
  script:
- - main
+ - main.c
